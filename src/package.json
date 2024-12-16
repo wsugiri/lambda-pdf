@@ -1,0 +1,14 @@
+{
+  "name": "lambda-pdf",
+  "version": "1.0.0",
+  "author": "",
+  "license": "ISC",
+  "description": "A Node.js app running Puppeteer on AWS Lambda",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "puppeteer": "19.11.1"
+  }
+}
